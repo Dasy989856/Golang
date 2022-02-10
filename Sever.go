@@ -11,4 +11,5 @@ func multi(a, b int) int {
 func main() {
 	fmt.Println("Hello")
 	fmt.Println(multi(1, 2))
+
 }
